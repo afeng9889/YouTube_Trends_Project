@@ -2,6 +2,9 @@
 
 Source: [Youtube Data](https://www.kaggle.com/datasnaek/youtube-new)
 
+## Overview:
+In this project, we will look at factors that make a Youtube video trend. Using 'tags' that are associated with the video, we will build a machine learning model to analyze a couple of datasets to predict the number of views it will generate over a period of time, and how many days it will likely be on the trending list.
+
 ## Technologies Used
 ### Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
