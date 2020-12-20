@@ -12,3 +12,10 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 
 ### Dashboard
 We currently plan to use tableau to create a dashboard.
+
+## Communication Protocols
+We worked on the project as a group during class, and have scheduled weekend catch-ups to chekc on progression of work.
+- Andy: created the initial file to upload the CSVs into jupyter notebook and initial README.
+- Syed: cleaned up the dataframe and converted appropriate datatype to datetime.
+- Harry: added new column to track "duration of trend" to the dataframe.
+- Michelle: 
