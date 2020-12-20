@@ -19,7 +19,7 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 We currently plan to use tableau to create a dashboard and Google slides to create the final presentation.
 
 ## Communication Protocols
-We worked on the project as a group during class, and have scheduled weekend catch-ups to chekc on progression of work.
+We worked on the project as a group during class, and have scheduled weekend catch-ups to check on progression of work.
 
 ### Individual Roles for the week
 - **Andy**: created the initial file to upload the CSVs into jupyter notebook and initial README.
