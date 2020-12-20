@@ -25,4 +25,4 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Andy**: created the initial file to upload the CSVs into jupyter notebook and initial README.
 - **Syed**: cleaned up the dataframe and converted appropriate datatype to datetime.
 - **Harry**: added new column to track "time video took to trend" to the dataframe.
-- **Michelle**: 
+- **Michelle**: created new column for engagement rate of viewership
