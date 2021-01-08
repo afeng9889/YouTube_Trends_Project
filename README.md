@@ -21,8 +21,14 @@ We currently plan to use tableau to create a dashboard and Google slides to crea
 ## Communication Protocols
 We worked on the project as a group during class, and have scheduled weekend catch-ups to check on progression of work.
 
-### Individual Roles for the week
+### Individual Roles for the week 1
 - **Andy**: created the initial file to upload the CSVs into jupyter notebook and initial README.
 - **Syed**: cleaned up the dataframe and converted appropriate datatype to datetime.
 - **Harry**: added new column to track "time video took to trend" to the dataframe.
 - **Michelle**: created new column for engagement rate of viewership
+
+### Individual Roles for the week 2
+- **Andy**: added new code for counting frequency of tags in the file
+- **Syed**: created a database in PGAdmin using CSVs
+- **Harry**: created initial Google slides presentation
+- **Michelle**: added updated engagement rate 
