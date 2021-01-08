@@ -30,5 +30,5 @@ We worked on the project as a group during class, and have scheduled weekend cat
 ### Individual Roles for the week 2
 - **Andy**: added new code for counting frequency of tags in the file
 - **Syed**: created a database in PGAdmin using CSVs
-- **Harry**: created initial Google slides presentation
+- **Harry**: created initial Google slides presentation/html
 - **Michelle**: added updated engagement rate 
