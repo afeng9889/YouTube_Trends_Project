@@ -19,7 +19,7 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 We currently plan to use tableau to create a dashboard and Google slides to create the final presentation.
 
 ## Communication Protocols
-We worked on the project as a group during class, and have scheduled weekend catch-ups to check on progression of work.
+We worked on the project as a group during class, and have scheduled weekend catch-ups to check on progression of work through slack & Zoom calls.
 
 ### Individual Roles for the week 1
 - **Andy**: created the initial file to upload the CSVs into jupyter notebook and initial README.
@@ -28,7 +28,7 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Michelle**: created new column for engagement rate of viewership
 
 ### Individual Roles for the week 2
-- **Andy**: added new code for counting frequency of tags in the file
+- **Andy**: added new code for counting frequency of tags in the file, and drafted Naive Bayes machine learning
 - **Syed**: created a database in PGAdmin using CSVs
 - **Harry**: created initial Google slides presentation/html
 - **Michelle**: added updated engagement rate 
