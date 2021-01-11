@@ -13,7 +13,7 @@ Pandas will be used to clean the data and perform an exploratory analysis. Furth
 Postgres SQL is the database we intend to use.
 
 ### Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is categorizing number of views into groups (target variable: y) and the tag names as our independent variable (features: X). We currently plan to use random forest model to predict the trend. 
+SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is categorizing number of views into groups (target variable: y) and the tag names as our independent variable (features: X). We currently plan to use Naive Bayes to predict the trend. 
 
 ### Dashboard
 We currently plan to use tableau to create a dashboard and Google slides to create the final presentation.
