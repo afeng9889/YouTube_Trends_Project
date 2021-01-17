@@ -43,5 +43,5 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Andy**: created code for machine learning (significant tags to predict view counts)
 - **Syed**: worked on slide presentation
 - **Harry**: worked on web browser/ dashboard
-- **Michelle**: created a database in PGAdmin and connect to Jupytwr 
+- **Michelle**: created a database in PGAdmin and connect to Jupyter 
 
