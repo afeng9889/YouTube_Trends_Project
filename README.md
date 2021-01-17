@@ -32,3 +32,10 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Syed**: created a database in PGAdmin using CSVs
 - **Harry**: created initial Google slides presentation/html
 - **Michelle**: added updated engagement rate 
+
+### Individual Roles for the week 3
+- **Andy**: created code for machine learning (significant tags to predict view counts)
+- **Syed**: worked on slide presentation
+- **Harry**: worked on web browser/ dashboard
+- **Michelle**: 
+
