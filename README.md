@@ -15,8 +15,14 @@ Postgres SQL is the database we intend to use.
 ### Machine Learning
 SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is categorizing number of views into groups (target variable: y) and the tag names as our independent variable (features: X). We currently plan to use random forest model to predict the trend. We will also use Naive Bayes to predict the category ID based on the tag.
 
+Our second machine learning model is created to find significant tags (p value < 0.05) to help predict view counts of videos.
+We used a logistic regression model because it is generally used to predict how the impact the independent variable(s) has on the dependent variable.
+
+Our logistic regression model predicted an accuracy rate of 0.87.
+We attempted a Random Forest Classifier model to preict as well, and received the same result of 0.87.
+
 ### Dashboard
-We currently plan to use tableau to create a dashboard and Google slides to create the final presentation.
+We currently plan to use html to create a dashboard in a web browser and Google slides to create the final presentation.
 
 ## Communication Protocols
 We worked on the project as a group during class, and have scheduled weekend catch-ups to check on progression of work through slack & Zoom calls.
