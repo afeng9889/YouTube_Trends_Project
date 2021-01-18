@@ -1,6 +1,7 @@
 # YouTube_Trends_Project
 
 Source: [Youtube Data](https://www.kaggle.com/datasnaek/youtube-new)
+Link to Google Slide: [Google Slide Presentation](https://docs.google.com/presentation/d/1Uc1_Z_aLs-cgmCej2P5kh7PKc_BZ5i1c9Jlv14YZNGs/edit?usp=sharing)
 
 ## Overview:
 In this project, we will look at factors that make a Youtube video trend. Using 'tags' that are associated with the video, we will build a machine learning model to analyze a couple of datasets to predict the number of views it will generate over a period of time, and the category of video based on the specific tag words.
