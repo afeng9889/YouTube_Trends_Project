@@ -48,4 +48,3 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Syed**: worked on slide presentation
 - **Harry**: worked on web browser/ dashboard
 - **Michelle**: created a database in PGAdmin and connect to Jupyter 
-
