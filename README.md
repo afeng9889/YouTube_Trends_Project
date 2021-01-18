@@ -1,7 +1,7 @@
 # YouTube_Trends_Project
 
 
-Link to Google Slide: [Google Slide Presentation](https://docs.google.com/presentation/d/1Uc1_Z_aLs-cgmCej2P5kh7PKc_BZ5i1c9Jlv14YZNGs/edit?usp=sharing)
+Link to Google Slide Presentation: [Google Slide Presentation](https://docs.google.com/presentation/d/1Uc1_Z_aLs-cgmCej2P5kh7PKc_BZ5i1c9Jlv14YZNGs/edit?usp=sharing)
 
 Source: [Youtube Data](https://www.kaggle.com/datasnaek/youtube-new)
 
