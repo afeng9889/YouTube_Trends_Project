@@ -41,7 +41,7 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Andy**: added new code for counting frequency of tags in the file, and drafted Naive Bayes machine learning
 - **Syed**: created a database in PGAdmin using CSVs
 - **Harry**: created initial presentation/html
-- **Michelle**: added updated engagement rate and first set of slide
+- **Michelle**: added updated engagement rate and first set of slides
 
 ### Individual Roles for the week 3
 - **Andy**: connected database from Postgres SQL to Pandas, created code for machine learning (significant tags to predict view counts)
