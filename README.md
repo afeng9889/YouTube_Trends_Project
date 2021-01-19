@@ -44,7 +44,7 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Michelle**: added updated engagement rate and first set of slide
 
 ### Individual Roles for the week 3
-- **Andy**: created code for machine learning (significant tags to predict view counts)
+- **Andy**: connected database from Postgres SQL to Pandas, created code for machine learning (significant tags to predict view counts)
 - **Syed**: worked on slide presentation
 - **Harry**: worked on web browser/ dashboard
 - **Michelle**: created a database in PGAdmin and connect to Jupyter 
