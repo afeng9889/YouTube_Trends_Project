@@ -1,7 +1,7 @@
 # YouTube_Trends_Project
 
 
-Link to HTML Dashboard: [HTML Dashboard](Source: [Youtube Data](https://www.kaggle.com/datasnaek/youtube-new)
+Link to HTML Dashboard: [HTML Dashboard](https://www.kaggle.com/datasnaek/youtube-new)
 )
 
 
