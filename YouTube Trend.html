@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Youtube Analysis</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-gem"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Youtube Trends Project</h1>
+								<p>In this project, we will look at factors that make a Youtube video trend. Using 'tags' that are associated with the video, we will build a machine learning model to analyze a couple of datasets to predict the number of views it will generate over a period of time, and how many days it will likely be on the trending list.
+								</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">Intro</a></li>
+								<li><a href="#Database">Database</a></li>
+								<li><a href="#MLmodel">ML model</a></li>
+								<li><a href="#OtherFindings">Others</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">Intro</h2>
+								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+								<p>As the world's largest video hosting website, YouTube has had huge impact in many fields and in every day of our life. It provides new challenges and new opportunities for both individuals and institutions, making what they do and the world better. Each Youtuber is a powerful opportunity to build new products, services, campaigns, brands and more that people will love. The more views, likes or followers the youtubers get, the more popular the channel will be and the higher the opportunity for them to become Trending in the YouTube community.</p>
+								<p>In this project, we will look at factors that make a Youtube video trend. We will explore the statistics of TrendingYouTube videos to find what makes these videos so popular, and analyze what are the main characteristics of the most popular videos on YouTube.</p>
+							</article>
+
+						<!-- Database -->
+							<article id="Database">
+								<h2 class="major">Source of Data</h2>
+								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
+								<p>We used a <a href="https://www.kaggle.com/datasnaek/youtube-new">dataset from Kaggle</a> that contains statistics of some top trending YouTube videos. </p>
+								<p>In order to make our analysis more accurate and relevant, we only focused on US and UK videos, reducing the dataset’s size to 45k rows and 16 columns in Postgres SQL. We will be connecting our Postgres SQL database to Pandas. Our data source was Kaggle and a raw CSV file. The SQL Database was created and the CSV file has been split into 5 tables. The ERD and the queries to create the table and the join are also provided in the repository.</p>
+							</article>
+
+						<!-- MLmodel -->
+							<article id="MLmodel">
+								<h2 class="major">Machine Learning model</h2>
+								<p>SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is categorizing number of views into groups (target variable: y) and the tag names as our independent variable (features: X). We currently plan to use random forest model to predict the trend. We will also use Naive Bayes to predict the category ID based on the tag.</p>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p>Our second machine learning model is created to find significant tags (p value < 0.05) to help predict view counts of videos. We used a logistic regression model because it is generally used to predict how the impact the independent variable(s) has on the dependent variable.</p>
+								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
+								<p>It is showing the trends among the globe and shaping the world’s events. In this project, we will exploring the statistics of TrendingYouTube videos to find what makes these videos so popular, and analyze what are the main characteristics of the most popular videos on YouTube.</p>
+							</article>
+
+						<!-- OtherFindings -->
+							<article id="OtherFindings">
+								<h2 class="major">Other Statistical Findings</h2>
+								
+							</article>
+
+						<!-- Elements -->
+							<article id="elements">
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">Presented by Andy Feng, Syed Abrar Hossain, Michelle Huang and Harry Li </a></p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
