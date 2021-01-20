@@ -2,7 +2,6 @@
 
 
 Link to HTML Dashboard: [HTML Dashboard](https://www.kaggle.com/datasnaek/youtube-new)
-)
 
 
 Link to Google Slide Presentation: [Google Slide Presentation](https://docs.google.com/presentation/d/1Uc1_Z_aLs-cgmCej2P5kh7PKc_BZ5i1c9Jlv14YZNGs/edit?usp=sharing)
