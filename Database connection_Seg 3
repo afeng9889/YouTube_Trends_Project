@@ -1,1 +1,6 @@
-
+from sqlalchemy import create_engine
+import pandas as pd
+db_string = f"postgres://postgres:hello@127.0.0.1:5432/Youtube_Trends_Project"
+engine = create_engine(db_string)
+df_us1 = pd.read_sql_query('select * from "us_videos_1"',con=engine)
+df_us1
