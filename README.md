@@ -56,4 +56,4 @@ We worked on the project as a group during class, and have scheduled weekend cat
 - **Andy**: worked on slide presentation. added charts/plots to presentation
 - **Syed**: worked on slide presentation
 - **Harry**: worked on web browser/ dashboard
-- **Michelle**: 
+- **Michelle**: added charts to presentation
