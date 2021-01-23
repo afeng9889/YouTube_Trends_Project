@@ -1,4 +1,4 @@
 # YouTube_Trends_Project
 
 Presentation Notes: 
-SLides
+SLides: 1-14
