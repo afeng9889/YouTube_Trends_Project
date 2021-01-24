@@ -55,5 +55,5 @@ We worked on the project as a group during class, and have scheduled weekend cat
 ### Individual Roles for the week 4
 - **Andy**: worked on slide presentation. added charts/plots to final presentation
 - **Syed**: worked on slide presentation
-- **Harry**: worked on web browser/ dashboard
+- **Harry**: finished web browser/ dashboard
 - **Michelle**: added a chart to final presentation
