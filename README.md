@@ -17,10 +17,10 @@ In this project, we will look at factors that make a Youtube video trend. Using 
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ### Database Storage
-Postgres SQL is the database we intend to use.
+Postgres SQL is the database we used to connect to Pandas in Jupyter Notebook.
 
 ### Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is categorizing number of views into groups (target variable: y) and the tag names as our independent variable (features: X). We currently plan to use random forest model to predict the trend. We will also use Naive Bayes to predict the category ID based on the tag.
+SciKitLearn is the ML library we used to create a classifier. Our training and testing setup is categorizing number of views into groups (target variable: y) and the tag names as our independent variable (features: X). We currently plan to use random forest model to predict the trend. We will also use Naive Bayes to predict the category ID based on the tag.
 
 Our second machine learning model is created to find significant tags (p value < 0.05) to help predict view counts of videos.
 We used a logistic regression model because it is generally used to predict how the impact the independent variable(s) has on the dependent variable.
